@@ -13,7 +13,7 @@
 
 ---
 
-![mCards hompage](mcards homepage.png)
+![mCards hompage](mcards_homepage.png)
 
 ---
 ### 🏢  Overview
